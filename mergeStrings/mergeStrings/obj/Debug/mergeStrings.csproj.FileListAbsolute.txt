@@ -1,0 +1,6 @@
+c:\users\vcalvo2\documents\visual studio 2012\Projects\mergeStrings\mergeStrings\bin\Debug\mergeStrings.exe.config
+c:\users\vcalvo2\documents\visual studio 2012\Projects\mergeStrings\mergeStrings\bin\Debug\mergeStrings.exe
+c:\users\vcalvo2\documents\visual studio 2012\Projects\mergeStrings\mergeStrings\bin\Debug\mergeStrings.pdb
+c:\users\vcalvo2\documents\visual studio 2012\Projects\mergeStrings\mergeStrings\obj\Debug\mergeStrings.csprojResolveAssemblyReference.cache
+c:\users\vcalvo2\documents\visual studio 2012\Projects\mergeStrings\mergeStrings\obj\Debug\mergeStrings.exe
+c:\users\vcalvo2\documents\visual studio 2012\Projects\mergeStrings\mergeStrings\obj\Debug\mergeStrings.pdb
